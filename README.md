@@ -49,3 +49,8 @@ The machine learning model used in this app is trained on a spam message dataset
 - Improve UI/UX
 - Use advanced machine learning models (e.g., deep learning)
 - Add user feedback collection for model improvement
+
+## 🚀 Live Demo
+
+Check out the live Streamlit app here:  
+👉 [Spam Classifier App](https://spam-message-classifierapp.streamlit.app/)
