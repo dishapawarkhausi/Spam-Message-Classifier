@@ -1,4 +1,3 @@
-
 # Spam Message Classifier Web App
 
 This project is a **Spam Message Classifier** built using Python and Streamlit. The web app predicts whether a message is spam or ham (not spam) using a machine learning model.
@@ -51,6 +50,5 @@ The machine learning model used in this app is trained on a spam message dataset
 - Add user feedback collection for model improvement
 
 ## 🚀 Live Demo
-
 Check out the live Streamlit app here:  
 👉 [Spam Classifier App](https://spam-message-classifierapp.streamlit.app/)
